@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Justice Animation</string>
+
+    <!--Heroes names-->
+    <string name="wonderwoman">Wonder Woman</string>
+    <string name="superman">Superman</string>
+    <string name="batman">Batman</string>
+
+    <!--Heroes descriptions-->
+    <string name="wonderwoman_desc">Princess Diana of Themyscira is an Amazon warrior princess and one of the world\s first superheroes, known as Wonder Woman. </string>
+    <string name="superman_desc">Clark Joseph Kent, born with the Kryptonian name Kal-El, is an incredibly powerful alien superhero of the House of El, one of the extremely few survivors of the destruction of Krypton, and an investigative reporter of the Daily Planet.</string>
+    <string name="batman_desc">Bruce Wayne is the billionaire owner and CEO of Wayne Enterprises and the costumed vigilante operating in Gotham City known as the Batman.</string>
+
+
+
+</resources>
